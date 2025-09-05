@@ -1,0 +1,93 @@
+{
+  "session_id": "dd8f5461-16cb-45e7-b1a7-cede5c6e42c4",
+  "timestamp": "2025-09-05T19:17:52.655390",
+  "labels": [
+    "RHO-TECH",
+    "PIPETECH"
+  ],
+  "min_bytes": 1000,
+  "captures": [
+    {
+      "capture_id": "32d4033f7b3949efdf107a523288d779",
+      "label": "RHO-TECH",
+      "url_original": "https://httpbin.org/html",
+      "url_final": "https://httpbin.org/html",
+      "timestamp": "2025-09-05T19:17:53.030858",
+      "title": "",
+      "html_size": 3737,
+      "text_length": 3593,
+      "links_count": 0,
+      "images_count": 0,
+      "forms_count": 0,
+      "files": {
+        "html": "html_dumps/32d4033f7b3949efdf107a523288d779_RHO-TECH.html",
+        "screenshot": "screenshots/32d4033f7b3949efdf107a523288d779_RHO-TECH.png",
+        "network": "network_logs/32d4033f7b3949efdf107a523288d779_RHO-TECH_network.json"
+      },
+      "hash_md5": "a24ba82f1820ab32635c6657cae34824",
+      "hash_sha256": "8a0c2e34b512b3f2dea114ae4dc856834e1373617b76aeaff3ce3d72fdcd7cc7"
+    },
+    {
+      "capture_id": "074aea5a1e91cb3018647c5327ecee03",
+      "label": "RHO-TECH",
+      "url_original": "https://www.wikipedia.org/",
+      "url_final": "https://www.wikipedia.org/",
+      "timestamp": "2025-09-05T19:18:13.545446",
+      "title": "Wikipedia",
+      "html_size": 119823,
+      "text_length": 9038,
+      "links_count": 375,
+      "images_count": 2,
+      "forms_count": 1,
+      "files": {
+        "html": "html_dumps/074aea5a1e91cb3018647c5327ecee03_RHO-TECH.html",
+        "screenshot": "screenshots/074aea5a1e91cb3018647c5327ecee03_RHO-TECH.png",
+        "network": "network_logs/074aea5a1e91cb3018647c5327ecee03_RHO-TECH_network.json"
+      },
+      "hash_md5": "86abe9970c94cbd855e02957a27997a7",
+      "hash_sha256": "d91c6646e462703347e6e30088bbe20fca563455ed800c396e9252d9f14cff64"
+    },
+    {
+      "capture_id": "29c9ed75c5fec16245f6719a33464237",
+      "label": "PIPETECH",
+      "url_original": "https://httpbin.org/html",
+      "url_final": "https://httpbin.org/html",
+      "timestamp": "2025-09-05T19:18:18.025736",
+      "title": "",
+      "html_size": 3737,
+      "text_length": 3593,
+      "links_count": 0,
+      "images_count": 0,
+      "forms_count": 0,
+      "files": {
+        "html": "html_dumps/29c9ed75c5fec16245f6719a33464237_PIPETECH.html",
+        "screenshot": "screenshots/29c9ed75c5fec16245f6719a33464237_PIPETECH.png",
+        "network": "network_logs/29c9ed75c5fec16245f6719a33464237_PIPETECH_network.json"
+      },
+      "hash_md5": "a24ba82f1820ab32635c6657cae34824",
+      "hash_sha256": "8a0c2e34b512b3f2dea114ae4dc856834e1373617b76aeaff3ce3d72fdcd7cc7"
+    },
+    {
+      "capture_id": "d6d19792d61ee547a190f803621935cf",
+      "label": "PIPETECH",
+      "url_original": "https://www.wikipedia.org/",
+      "url_final": "https://www.wikipedia.org/",
+      "timestamp": "2025-09-05T19:18:37.151104",
+      "title": "Wikipedia",
+      "html_size": 119837,
+      "text_length": 9038,
+      "links_count": 375,
+      "images_count": 2,
+      "forms_count": 1,
+      "files": {
+        "html": "html_dumps/d6d19792d61ee547a190f803621935cf_PIPETECH.html",
+        "screenshot": "screenshots/d6d19792d61ee547a190f803621935cf_PIPETECH.png",
+        "network": "network_logs/d6d19792d61ee547a190f803621935cf_PIPETECH_network.json"
+      },
+      "hash_md5": "fc9a8627867114c234075ce701cea95f",
+      "hash_sha256": "e00950a14315238464a4bd68e5e400bb53e3eeee972afc7cf44e3f0e94f3e300"
+    }
+  ],
+  "total_captures": 4,
+  "completion_timestamp": "2025-09-05T19:18:41.217763"
+}
