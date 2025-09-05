@@ -1,0 +1,11 @@
+FORENSIC CAPTURE REPORT
+==================================================
+
+Session ID: 3379055f-4caf-4ec9-8779-f56a3f60e979
+Timestamp: 2025-09-05T19:36:09.315356
+Labels: RHO-TECH, PIPETECH, DIKA, SWAN
+Minimum bytes threshold: 1000000
+Total captures: 0
+
+CAPTURE DETAILS:
+------------------------------
