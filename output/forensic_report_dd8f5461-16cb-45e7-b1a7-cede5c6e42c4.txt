@@ -1,0 +1,43 @@
+FORENSIC CAPTURE REPORT
+==================================================
+
+Session ID: dd8f5461-16cb-45e7-b1a7-cede5c6e42c4
+Timestamp: 2025-09-05T19:17:52.655390
+Labels: RHO-TECH, PIPETECH
+Minimum bytes threshold: 1000
+Total captures: 4
+
+CAPTURE DETAILS:
+------------------------------
+
+Label: RHO-TECH
+URL: https://httpbin.org/html
+Title: 
+Size: 3737 bytes
+MD5: a24ba82f1820ab32635c6657cae34824
+SHA256: 8a0c2e34b512b3f2dea114ae4dc856834e1373617b76aeaff3ce3d72fdcd7cc7
+Files: {'html': 'html_dumps/32d4033f7b3949efdf107a523288d779_RHO-TECH.html', 'screenshot': 'screenshots/32d4033f7b3949efdf107a523288d779_RHO-TECH.png', 'network': 'network_logs/32d4033f7b3949efdf107a523288d779_RHO-TECH_network.json'}
+
+Label: RHO-TECH
+URL: https://www.wikipedia.org/
+Title: Wikipedia
+Size: 119823 bytes
+MD5: 86abe9970c94cbd855e02957a27997a7
+SHA256: d91c6646e462703347e6e30088bbe20fca563455ed800c396e9252d9f14cff64
+Files: {'html': 'html_dumps/074aea5a1e91cb3018647c5327ecee03_RHO-TECH.html', 'screenshot': 'screenshots/074aea5a1e91cb3018647c5327ecee03_RHO-TECH.png', 'network': 'network_logs/074aea5a1e91cb3018647c5327ecee03_RHO-TECH_network.json'}
+
+Label: PIPETECH
+URL: https://httpbin.org/html
+Title: 
+Size: 3737 bytes
+MD5: a24ba82f1820ab32635c6657cae34824
+SHA256: 8a0c2e34b512b3f2dea114ae4dc856834e1373617b76aeaff3ce3d72fdcd7cc7
+Files: {'html': 'html_dumps/29c9ed75c5fec16245f6719a33464237_PIPETECH.html', 'screenshot': 'screenshots/29c9ed75c5fec16245f6719a33464237_PIPETECH.png', 'network': 'network_logs/29c9ed75c5fec16245f6719a33464237_PIPETECH_network.json'}
+
+Label: PIPETECH
+URL: https://www.wikipedia.org/
+Title: Wikipedia
+Size: 119837 bytes
+MD5: fc9a8627867114c234075ce701cea95f
+SHA256: e00950a14315238464a4bd68e5e400bb53e3eeee972afc7cf44e3f0e94f3e300
+Files: {'html': 'html_dumps/d6d19792d61ee547a190f803621935cf_PIPETECH.html', 'screenshot': 'screenshots/d6d19792d61ee547a190f803621935cf_PIPETECH.png', 'network': 'network_logs/d6d19792d61ee547a190f803621935cf_PIPETECH_network.json'}
