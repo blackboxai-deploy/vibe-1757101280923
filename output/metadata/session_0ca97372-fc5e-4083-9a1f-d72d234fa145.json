@@ -1,0 +1,14 @@
+{
+  "session_id": "0ca97372-fc5e-4083-9a1f-d72d234fa145",
+  "timestamp": "2025-09-05T19:19:06.168553",
+  "labels": [
+    "RHO-TECH",
+    "PIPETECH",
+    "DIKA",
+    "SWAN"
+  ],
+  "min_bytes": 1000000,
+  "captures": [],
+  "total_captures": 0,
+  "completion_timestamp": "2025-09-05T19:20:33.569563"
+}
